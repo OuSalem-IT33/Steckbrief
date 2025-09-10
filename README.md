@@ -47,5 +47,10 @@ Sie ist für die Git-Übungsaufgabe gedacht, in der ein `dev`-Branch erstellt,
   git log --oneline --graph --decorate --all
   git status
   ```
+## Änderungsprotokoll
 
+- index updating
+- Persönliche Informationen hinzufügen
+ 
+ 
 Viel Erfolg!
